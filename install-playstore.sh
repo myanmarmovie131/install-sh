@@ -98,9 +98,9 @@ fi
 
 
 # get latest releasedate based on tag_name for latest x86_64 build
-OPENGAPPS_RELEASEDATE="20210730"
-OPENGAPPS_FILE="open_gapps-x86_64-7.1-pico-20210730.zip"
-OPENGAPPS_URL=" https://sourceforge.net/projects/opengapps/files/x86_64/20210728/open_gapps-x86_64-7.1-pico-20210730.zip"
+OPENGAPPS_RELEASEDATE="20210724"
+OPENGAPPS_FILE="open_gapps-x86-11.0-pico-20210724.zip"
+OPENGAPPS_URL="https://sourceforge.net/projects/opengapps/files/x86/20210724/open_gapps-x86-11.0-pico-20210724.zip"
 
 HOUDINI_Y_URL="http://dl.android-x86.org/houdini/7_y/houdini.sfs"
 HOUDINI_Z_URL="http://dl.android-x86.org/houdini/7_z/houdini.sfs"
